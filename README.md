@@ -1,4 +1,4 @@
-`# deploy-code-server2 🚀
+`# deploy-code-server2 🚀11
 
 A collection of one-click buttons and scripts for deploying [code-server](https://github.com/cdr/code-server) to various cloud hosting platforms. The fastest way to get a code-server environment! ☁️
 
